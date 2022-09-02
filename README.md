@@ -35,6 +35,12 @@ Incorporate GMSTs from mods:
   "i1stPersonSneakDelta":"25",
 ```
 
+## [avp BTBGI-NE - Game Settings - BTBGI Adjustments](https://www.nexusmods.com/morrowind/mods/48955)
+
+```
+  "fBarterGoldResetDelay":"24",
+```
+
 ## [Reduced_Forward_Jump](https://www.nexusmods.com/morrowind/mods/45426)
 
 ```
