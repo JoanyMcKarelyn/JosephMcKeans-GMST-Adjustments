@@ -21,6 +21,8 @@
   "fThrownWeaponMaxSpeed":"1200",
   "fThrownWeaponMinSpeed":"360",
   "i1stPersonSneakDelta":"25",
+  
+  "fBarterGoldResetDelay":"24",
 
   "fJumpMoveBase":"0.3",
   "fJumpMoveMult":"0"
