@@ -4,7 +4,7 @@ A Morrowind game settings config file for GMST Menu.
 
 Incorporate GMSTs from mods:
 
-## avp BTBGI-NE - Game Settings - More Meaningful Encumbrance
+## [avp BTBGI-NE - Game Settings - More Meaningful Encumbrance](https://www.nexusmods.com/morrowind/mods/48955)
 
 ```
   "fFatigueAttackMult":"4",
@@ -25,7 +25,7 @@ Incorporate GMSTs from mods:
   "fJumpEncumbranceMultiplier":"1.25",
 ```
 
-## avp BTBGI-NE - Game Settings - Suggested Tweaks
+## [avp BTBGI-NE - Game Settings - Suggested Tweaks](https://www.nexusmods.com/morrowind/mods/48955)
 
 ```
   "fProjectileMaxSpeed":"6000",
@@ -35,7 +35,7 @@ Incorporate GMSTs from mods:
   "i1stPersonSneakDelta":"25",
 ```
 
-## Reduced_Forward_Jump
+## [Reduced_Forward_Jump](https://www.nexusmods.com/morrowind/mods/45426)
 
 ```
   "fJumpMoveBase":"0.3",
